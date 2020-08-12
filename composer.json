@@ -1,20 +1,20 @@
 {
-    "name": "leaguee/geotools",
+    "name": "magento24/geotools",
     "type": "library",
     "description": "Geo-related tools PHP 7.0+ library",
     "keywords": ["geotools", "geometry", "geocoder", "geocoding", "geoip", "bounds", "distance", "batch", "async", "geohash", "geolocation", "latlong", "latitude", "longitude"],
     "license": "MIT",
 
     "authors": [{
-        "name": "Antoine Corcy",
-        "email": "contact@sbin.dk",
-        "homepage": "http://sbin.dk",
+        "name": "Muthupandi",
+        "email": "muthupandi845@gmail.com",
+        "homepage": "https://github.com/muthupandi",
         "role": "Developer"
     }],
 
     "support": {
-        "issues": "https://github.com/thephpleague/geotools/issues",
-        "source": "https://github.com/thephpleague/geotools"
+        "issues": "https://github.com/muthupandi",
+        "source": "https://github.com/muthupandi"
     },
 
     "replace": {
@@ -31,7 +31,6 @@
         "symfony/serializer": "^2.7 || ^3.0 || ^4.0 || ^5.0",
         "react/event-loop": "0.4.*",
         "php-http/discovery": "^1.0",
-        "cache/array-adapter": "^1.0",
         "ext-bcmath": "*"
     },
 
@@ -41,8 +40,8 @@
 
     "autoload": {
         "psr-4": {
-            "League\\Geotools\\": "src",
-            "League\\Geotools\\Tests\\": "tests"
+            "Magento24\\Geotools\\": "src",
+            "Magento24\\Geotools\\Tests\\": "tests"
         }
     },
 

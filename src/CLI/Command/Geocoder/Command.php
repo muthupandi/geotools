@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\CLI\Command\Geocoder;
+namespace Magento24\Geotools\CLI\Command\Geocoder;
 
 use Psr\Cache\CacheItemPoolInterface;
 

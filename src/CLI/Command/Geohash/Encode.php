@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\CLI\Command\Geohash;
+namespace Magento24\Geotools\CLI\Command\Geohash;
 
-use League\Geotools\Coordinate\Coordinate;
-use League\Geotools\Geohash\Geohash;
-use League\Geotools\Geotools;
+use Magento24\Geotools\Coordinate\Coordinate;
+use Magento24\Geotools\Geohash\Geohash;
+use Magento24\Geotools\Geotools;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;

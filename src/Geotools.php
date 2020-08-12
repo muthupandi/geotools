@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools;
+namespace Magento24\Geotools;
 
-use League\Geotools\Coordinate\CoordinateInterface;
-use League\Geotools\Distance\Distance;
-use League\Geotools\Vertex\Vertex;
-use League\Geotools\Batch\Batch;
-use League\Geotools\Geohash\Geohash;
-use League\Geotools\Convert\Convert;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\Distance\Distance;
+use Magento24\Geotools\Vertex\Vertex;
+use Magento24\Geotools\Batch\Batch;
+use Magento24\Geotools\Geohash\Geohash;
+use Magento24\Geotools\Convert\Convert;
 use Geocoder\Geocoder;
 
 /**

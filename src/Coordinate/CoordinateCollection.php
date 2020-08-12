@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Coordinate;
+namespace Magento24\Geotools\Coordinate;
 
-use League\Geotools\ArrayCollection;
-use League\Geotools\Exception\InvalidArgumentException;
+use Magento24\Geotools\ArrayCollection;
+use Magento24\Geotools\Exception\InvalidArgumentException;
 
 /**
  * @author Gabriel Bull <me@gabrielbull.com>

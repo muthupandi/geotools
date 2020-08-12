@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Exception;
+namespace Magento24\Geotools\Exception;
 
 /**
  * Exception interface

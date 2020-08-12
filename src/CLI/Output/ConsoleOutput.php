@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\CLI\Output;
+namespace Magento24\Geotools\CLI\Output;
 
-use League\Geotools\CLI\Formatter\OutputFormatter;
+use Magento24\Geotools\CLI\Formatter\OutputFormatter;
 use Symfony\Component\Console\Formatter\OutputFormatterInterface;
 
 /**

@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Distance;
+namespace Magento24\Geotools\Distance;
 
-use League\Geotools\CoordinateCouple;
-use League\Geotools\Exception\NotConvergingException;
-use League\Geotools\Coordinate\CoordinateInterface;
-use League\Geotools\Coordinate\Ellipsoid;
-use League\Geotools\GeotoolsInterface;
+use Magento24\Geotools\CoordinateCouple;
+use Magento24\Geotools\Exception\NotConvergingException;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\Coordinate\Ellipsoid;
+use Magento24\Geotools\GeotoolsInterface;
 
 /**
  * Distance class

@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\CLI\Command\Distance;
+namespace Magento24\Geotools\CLI\Command\Distance;
 
-use League\Geotools\Coordinate\Coordinate;
-use League\Geotools\Coordinate\Ellipsoid;
-use League\Geotools\Geotools;
+use Magento24\Geotools\Coordinate\Coordinate;
+use Magento24\Geotools\Coordinate\Ellipsoid;
+use Magento24\Geotools\Geotools;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;

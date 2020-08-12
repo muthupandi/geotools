@@ -1,9 +1,9 @@
 <?php
 
-namespace League\Geotools\Polygon;
+namespace Magento24\Geotools\Polygon;
 
-use League\Geotools\Coordinate\CoordinateInterface;
-use League\Geotools\GeometryCollection;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\GeometryCollection;
 
 class MultiPolygon extends GeometryCollection implements PolygonInterface
 {

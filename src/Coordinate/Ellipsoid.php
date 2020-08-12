@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Coordinate;
+namespace Magento24\Geotools\Coordinate;
 
-use League\Geotools\Exception\InvalidArgumentException;
-use League\Geotools\Exception\NotMatchingEllipsoidException;
+use Magento24\Geotools\Exception\InvalidArgumentException;
+use Magento24\Geotools\Exception\NotMatchingEllipsoidException;
 
 /**
  * Ellipsoid class

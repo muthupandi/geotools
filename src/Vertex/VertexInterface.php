@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Vertex;
+namespace Magento24\Geotools\Vertex;
 
-use League\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
 
 /**
  * Vertex interface

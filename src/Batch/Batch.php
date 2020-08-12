@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Batch;
+namespace Magento24\Geotools\Batch;
 
 use Geocoder\Geocoder;
 use Geocoder\ProviderAggregator;
-use League\Geotools\Coordinate\CoordinateInterface;
-use League\Geotools\Exception\InvalidArgumentException;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\Exception\InvalidArgumentException;
 use Psr\Cache\CacheItemPoolInterface;
 use React\EventLoop\Factory as EventLoopFactory;
 use React\Promise\Deferred;

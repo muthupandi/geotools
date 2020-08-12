@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Geohash;
+namespace Magento24\Geotools\Geohash;
 
-use League\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
 
 /**
  * Geohash interface

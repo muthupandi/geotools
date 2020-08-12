@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Batch;
+namespace Magento24\Geotools\Batch;
 
 use Geocoder\Location;
 use Geocoder\Model\Address;

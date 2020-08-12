@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools;
+namespace Magento24\Geotools;
 
-use League\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
 
 /**
  * Coordinate couple Trait

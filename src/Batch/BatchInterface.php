@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Batch;
+namespace Magento24\Geotools\Batch;
 
 use Geocoder\Collection;
-use League\Geotools\Exception\InvalidArgumentException;
+use Magento24\Geotools\Exception\InvalidArgumentException;
 use Psr\Cache\CacheItemPoolInterface;
 
 /**
@@ -38,7 +38,7 @@ interface BatchInterface
      * Set an array of closures to reverse geocode.
      * If a provider throws an exception it will return an empty AddressCollection.
      *
-     * @param \League\Geotools\Coordinate\CoordinateInterface|array $coordinates A coordinate or an array of coordinates to reverse.
+     * @param \Magento24\Geotools\Coordinate\CoordinateInterface|array $coordinates A coordinate or an array of coordinates to reverse.
      *
      * @return BatchInterface
      *

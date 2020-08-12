@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools;
+namespace Magento24\Geotools;
 
-use League\Geotools\BoundingBox\BoundingBox;
-use League\Geotools\BoundingBox\BoundingBoxInterface;
-use League\Geotools\Coordinate\Coordinate;
-use League\Geotools\Coordinate\CoordinateCollection;
-use League\Geotools\Coordinate\Ellipsoid;
-use League\Geotools\Exception\InvalidArgumentException;
+use Magento24\Geotools\BoundingBox\BoundingBox;
+use Magento24\Geotools\BoundingBox\BoundingBoxInterface;
+use Magento24\Geotools\Coordinate\Coordinate;
+use Magento24\Geotools\Coordinate\CoordinateCollection;
+use Magento24\Geotools\Coordinate\Ellipsoid;
+use Magento24\Geotools\Exception\InvalidArgumentException;
 
 /**
  * @author Rémi San <remi.san@gmail.com>

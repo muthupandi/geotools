@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Coordinate;
+namespace Magento24\Geotools\Coordinate;
 
 /**
  * Coordinate Interface

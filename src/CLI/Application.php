@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\CLI;
+namespace Magento24\Geotools\CLI;
 
-use League\Geotools\CLI\Output\ConsoleOutput;
+use Magento24\Geotools\CLI\Output\ConsoleOutput;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 

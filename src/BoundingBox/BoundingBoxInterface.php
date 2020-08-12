@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\BoundingBox;
+namespace Magento24\Geotools\BoundingBox;
 
-use League\Geotools\Polygon\PolygonInterface;
+use Magento24\Geotools\Polygon\PolygonInterface;
 
 /**
  * @author Gabriel Bull <me@gabrielbull.com>

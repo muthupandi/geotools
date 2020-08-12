@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools;
+namespace Magento24\Geotools;
 
-use League\Geotools\BoundingBox\BoundingBoxInterface;
-use League\Geotools\Coordinate\Coordinate;
-use League\Geotools\Coordinate\CoordinateCollection;
-use League\Geotools\Coordinate\Ellipsoid;
+use Magento24\Geotools\BoundingBox\BoundingBoxInterface;
+use Magento24\Geotools\Coordinate\Coordinate;
+use Magento24\Geotools\Coordinate\CoordinateCollection;
+use Magento24\Geotools\Coordinate\Ellipsoid;
 
 /**
  * @author Rémi San <remi.san@gmail.com>

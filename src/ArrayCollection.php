@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools;
+namespace Magento24\Geotools;
 
 /**
  * @author Gabriel Bull <me@gabrielbull.com>

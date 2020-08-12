@@ -9,15 +9,15 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools;
+namespace Magento24\Geotools;
 
 use Geocoder\Geocoder as GeocoderInterface;
-use League\Geotools\Batch\BatchInterface;
-use League\Geotools\Convert\ConvertInterface;
-use League\Geotools\Coordinate\CoordinateInterface;
-use League\Geotools\Vertex\VertexInterface;
-use League\Geotools\Distance\DistanceInterface;
-use League\Geotools\Geohash\GeohashInterface;
+use Magento24\Geotools\Batch\BatchInterface;
+use Magento24\Geotools\Convert\ConvertInterface;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\Vertex\VertexInterface;
+use Magento24\Geotools\Distance\DistanceInterface;
+use Magento24\Geotools\Geohash\GeohashInterface;
 
 /**
  * Geotools interface

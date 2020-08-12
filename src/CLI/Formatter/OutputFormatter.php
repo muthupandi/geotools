@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\CLI\Formatter;
+namespace Magento24\Geotools\CLI\Formatter;
 
 use Symfony\Component\Console\Formatter\OutputFormatterStyle;
 

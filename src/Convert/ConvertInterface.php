@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Convert;
+namespace Magento24\Geotools\Convert;
 
 /**
  * Convert interface

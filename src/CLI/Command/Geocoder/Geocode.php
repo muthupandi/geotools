@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\CLI\Command\Geocoder;
+namespace Magento24\Geotools\CLI\Command\Geocoder;
 
 use Geocoder\ProviderAggregator;
 use Http\Discovery\HttpClientDiscovery;
-use League\Geotools\Batch\Batch;
+use Magento24\Geotools\Batch\Batch;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;

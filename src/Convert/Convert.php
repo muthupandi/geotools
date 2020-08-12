@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Convert;
+namespace Magento24\Geotools\Convert;
 
-use League\Geotools\Coordinate\CoordinateInterface;
-use League\Geotools\Geotools;
-use League\Geotools\GeotoolsInterface;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\Geotools;
+use Magento24\Geotools\GeotoolsInterface;
 
 /**
  * Convert class

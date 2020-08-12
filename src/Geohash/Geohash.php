@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace League\Geotools\Geohash;
+namespace Magento24\Geotools\Geohash;
 
-use League\Geotools\Coordinate\Coordinate;
-use League\Geotools\Coordinate\CoordinateInterface;
-use League\Geotools\Exception\InvalidArgumentException;
-use League\Geotools\Exception\RuntimeException;
+use Magento24\Geotools\Coordinate\Coordinate;
+use Magento24\Geotools\Coordinate\CoordinateInterface;
+use Magento24\Geotools\Exception\InvalidArgumentException;
+use Magento24\Geotools\Exception\RuntimeException;
 
 /**
  * Geohash class
